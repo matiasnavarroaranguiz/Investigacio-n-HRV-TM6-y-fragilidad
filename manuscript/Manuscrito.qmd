@@ -1,0 +1,76 @@
+---
+title: "Respuesta autonómica cardíaca al esfuerzo submáximo en adultos mayores de alta latitud sur: comparación entre personas no frágiles y estadíos preclínicos de fragilidad"
+author: "Matías Navarro Aránguiz"
+format: html
+bibliography: referencias.bib
+---
+
+## Introducción
+
+El envejecimiento conlleva una serie de cambios físicos, psicológicos y ambientales que pueden llegar a convertirse en fragilidad, un síndrome caracterizado como un estado de reserva fisiológica agotada que afecta la capacidad funcional de las personas mayores para responder a factores estresantes [@kalladi2026frailty]. Este proceso podría agravarse en poblaciones australes, donde el menor fotoperiodo y el clima extremo influirían negativamente [@arauna2025a].
+
+La capacidad funcional es un componente fundamental en la salud de las personas mayores, y su deterioro progresivo se relaciona con una pérdida de independencia, menor calidad de vida y aumento de la mortalidad [@de2024six]. El Test de Marcha de 6 Minutos (TM6) se ha consolidado como una herramienta clínica de preferencia para evaluar la capacidad submáxima al ejercicio, dado su bajo costo y su relación con actividades de la vida diaria [@enright2003six; @nekar2024]. Sin embargo, la interpretación tradicional del TM6 basada exclusivamente en la distancia recorrida y la distancia esperada no captura la compleja respuesta fisiológica que ocurre antes, durante y después del esfuerzo físico [@sperandio2019reference]. Para una evaluación integral desde una perspectiva neurofisiológica, se pueden incluir mediciones como la variabilidad de la frecuencia cardíaca (HRV), un biomarcador no invasivo que representa la modulación autonómica cardíaca [@font2021cardiac; @chen2025relationship]. Se ha evidenciado que tanto el envejecimiento como la fragilidad se asocian a una menor HRV, lo que representa una peor respuesta autonómica [@medina2026integrated]. Este hallazgo complejiza aún más el síndrome de fragilidad, ya que compromete a uno de los principales mecanismos de adaptación del organismo, la regulación autonómica cardíaca mediada por el Sistema Nervioso Autónomo (SNA)[@chen2025relationship].
+
+A pesar de la creciente evidencia sobre la asociación entre la fragilidad y alteraciones autonómicas en reposo [@de2026resposta], así como estudios que han evaluado la respuesta de la HRV en esfuerzos físicos submáximos en poblaciones especificas [@font2021cardiac], persisten dudas sobre si estas diferencias varían durante el esfuerzo físico. Tampoco existe claridad sobre si la capacidad de recuperación autonómica post-esfuerzo difiere según el nivel de fragilidad. Si bien estudios previos han abordado la relación entre la fragilidad y HRV en reposo [@parvaneh2015regulation], así como la respuesta autonómica cardíaca al esfuerzo submáximo en poblaciones especificas [@alvarez2022chronotropic], ninguno ha integrado el análisis de los tres momentos del esfuerzo (antes, durante y después) en personas mayores de alta latitud sur considerando su nivel de fragilidad.
+
+Estas interrogantes adquieren especial relevancia en poblaciones residentes de alta latitud sur, como ciudades australes de Chile, donde las condiciones ambientales extremas, combinándose con un reducido fotoperiodo (especialmente en invierno) y bajas temperaturas persistentes, pueden influir negativamente en la modulación autonómica cardíaca [@mabe2024frailty; @baeza2025sensory] . Por lo tanto, el presente estudio tiene como objetivo comparar la respuesta autonómica cardíaca antes, durante y después de un esfuerzo submáximo (TM6) en personas sanas y estadios preclínicos de fragilidad, residentes en Punta Arenas, Chile.
+
+# Material y Metodos
+
+## Diseño
+
+Estudio observacional, transversal y correlacional realizado en el Centro Asistencial Docente e Investigación (CADI-UMAG, Punta Arenas, Chile), entre las 09:00 y 11:00 h, en una única visita por participante. El protocolo fue aprobado por el comité de ética institucional (código) y cada paciente se le aplicó el consentimiento informado.
+
+La sala de evaluación se mantuvo a una temperatura constante de 20 °C para garantizar la comodidad de los participantes y mantener condiciones de prueba estandarizadas, reduciendo así los posibles efectos termorreguladores sobre las respuestas autonómicas. Se utilizó iluminación blanca artificial para proporcionar una iluminación uniforme, evitando fluctuaciones en la luz ambiental que pudieran afectar los factores visuales o cognitivos durante las pruebas. Además, todas las evaluaciones se realizaron en un entorno privado y tranquilo para minimizar las distracciones externas y garantizar la fiabilidad de los datos recopilados.
+
+## Participantes
+
+Los participantes fueron reclutados de la comunidad local a través de avisos y actividades de difusión. Un total de 83 personas mayores participaron en el estudio, incluyendo 62 mujeres y 21 hombres, con una edad media de 70.5 años (SD = 5.5: rango: 61-88 años). PAra ser elegibles para la inclusión, los individuos debían cumplir los siguientes criterios: (i) tener 60 años o más al mometno de la inscripción; (ii) tener residencia permanen en la región de Magallanes y la Antártica Chilena asegurando una población homogénea expuesta a condiciones ambientales y socioeconómicas similares; (iii) alcanzar una puntuación superior al 60% en la escala de rendimiento funcional de Karnofsky, una medida ampliamente utilizada de la capacidad funcional, que garantizaba que los participantes tuvieran la autonomia suficiente para realizar las evaluaciones requeridas; y (iv) no tener diagnóstico previo de afecciones que pudieran afectar la función autonómica o cardiovascular, incluyendo neuropatía diabética, uso de marcapasos, depresión clínica, deterioro cognitivo, discapacidad motora o demencia.
+
+Se establecieron criterios de exclusión para minimizar los factores de confusión que pudieran influir en las mediciones autonómicas. Los participantes fueron excluidos si (i) estaban usando betabloqueadores durante el periodo de estudio, ya que estos medicamentos pueden alterar la respuesta cardiaca y autonómica;
+
+Exclusion criteria were established to minimize confounding factors that could influence autonomic measurements. Participants were excluded if they (i) were using beta-blockers during the study period, as these medications can significantly alter autonomic and cardiovascular responses; (ii) had consumed any stimulant substances, including caffeine or medications with sympathomimetic effects, within 12 hours before cardiac assessment; or (iii) had any degree of motor impairment that restricted independent movement and could interfere with study procedures. Notably, no recruited participants met the exclusion criteria.
+
+<!--- Falta terminar de traducir --->
+
+## Procedimientos
+
+Before the evaluations, sociodemographic data were collected for each participant, including name, age, sex, marital status, educational attainment, and chronic medical conditions. This information provided a comprehensive background for subsequent analyses and facilitated the identification of potential confounding factors related to frailty and autonomic function.
+
+The sample was carefully selected, with strict inclusion and exclusion criteria, which reduced interindividual variability and increased group homogeneity. The use of multivariate Bayesian models increases the statistical power and precision of estimates, especially when dealing with multiple correlated outcomes such as the various HRV indices. This allows for robust inference even with a moderate sample size such as n = 83.
+
+In addition to these baseline assessments, participants underwent a 6MWT to evaluate functional exercise capacity. Continuous R-R interval data were recorded throughout the protocol to estimate heart rate variability (HRV) before, during, and after the exercise procedure. This approach allowed for a dynamic assessment of autonomic regulation in response to physical exertion, providing insight into cardiovascular adaptability and autonomic recovery.
+
+## Evaluaciones
+
+### Evaluación de Fragilidad
+
+Frailty status was assessed using the validated Spanish version of the FRAIL scale, a widely recognized screening tool designed to identify individuals at risk of functional decline . This instrument evaluates five key domains: fatigue, ambulation, resistance, illness, and weight loss. Each domain is assigned a score of 1 point, with the total scale ranging from 0 to 5 points, where lower scores indicate better functional status and higher scores reflect increased frailty. Participants were classified into three categories based on their total score: non-frail (0 points), pre-frail (1–2 points), and frail (≥3 points) .
+
+The FRAIL scale has demonstrated high clinical utility as a screening measure, allowing healthcare professionals to identify individuals at elevated risk for adverse health outcomes, including disability, hospitalization, and mortality. Its application in this study provided a standardized and objective measure of frailty, facilitating comparisons across populations and ensuring methodological rigor .
+
+### Test de marcha de 6 minutos (TM6)
+
+The Six-Minute Walk Test (6MWT) was conducted to assess functional exercise capacity and cardiovascular response to submaximal physical exertion . This standardized test measures the maximum distance an individual can walk on a flat surface over six minutes and is a reliable indicator of aerobic endurance and overall mobility, particularly in older adults and clinical populations
+
+Participants performed the 6MWT following American Thoracic Society guidelines in a quiet indoor corridor with standardized instructions and encouragement provided at fixed intervals. They were instructed to walk at a self-selected pace while covering as much distance as possible within the allotted time. Resting was permitted if necessary, but participants were encouraged to resume walking as soon possible.
+
+R-R intervals were continuously recorded throughout the test using Polar H10 heart rate monitors to assess HRV dynamics before, during, and after exercise. Additionally, blood oxygen saturation (SpO~2~) and blood pressure (BP) were measured immediately before and after the test to evaluate physiological adaptations and recovery using BP monitor Omron Hem-7142.
+
+The 6MWT provided key insights into participants' functional capacity, autonomic responses to exertion, and cardiovascular adaptability. These data were integrated with HRV indices to assess autonomic modulation and recovery, enabling a comprehensive evaluation of autonomic function in relation to frailty and physiological resilience.
+
+### Parametros cardiovasculares
+
+Systolic blood pressure (SBP) and diastolic blood pressure (DBP) were measured using an Omron® pressure monitor to establish baseline cardiovascular status. To ensure participant safety and the reliability of HRV measurements, only individuals with SBP \<140 mmHg and DBP \<90 mmHg at the time of assessment were eligible for HRV recording.
+
+Cardiac autonomic modulation was evaluated through continuous R-R interval recordings obtained using the Polar Team2 system (Polar®). Participants remained seated throughout the HRV measurement procedure, with R-R intervals recorded continuously during the last 10 minutes of rest. From this data, a stable 5-minute segment was selected for analysis. Participants breathed spontaneously, and signal preprocessing included excluding artifacts and ectopic heartbeats, which did not exceed 3% of the recorded data.
+
+Time-domain HRV parameters included the root mean square of successive R-R interval differences (RMSSD, in ms), an established index of parasympathetic activity, and the standard deviation of R-R intervals (SDNN), which reflects overall autonomic modulation, encompassing both sympathetic and parasympathetic contributions In the frequency domain, high-frequency (HF) power was analyzed as a marker of parasympathetic activity, including respiratory sinus arrhythmia. In contrast, low-frequency (LF) power was assessed due to its association with baroreflex activity. Additionally, very low-frequency (VLF) power was considered, given its reported relationship with emotional stress.
+
+The Parasympathetic Nervous System Index (PNS Index) and Sympathetic Nervous System Index (SNS Index) were calculated to further quantify autonomic balance. The PNS Index, reflecting total vagal activity, was derived from mean R-R intervals, RMSSD, and the Poincaré Plot SD~1~ index, all expressed in normalized units . The SNS Index, indicative of sympathetic influence, was calculated using mean R-R intervals, Baevsky's Stress Index (a measure of cardiovascular and autonomic stress), and the Poincaré Plot SD~2~ index The Stress Index (SI), a normalized measure derived from Baevsky's SI, was also included to indicate autonomic system load.
+
+All HRV analyses were conducted using Kubios HRV® software (Kuopio, Finland).
+
+## Analisis estadisticos
+
+<!--- Bastante bien, ahora debes considerar incluir la metodología de la sección estadística y los resultados para empezar a darle forma al manuscrito, de momento todo bien. Cuida el uso de adjetivos en la metodología y de pulir el uso de citas (el uso de tags) y gramática en un solo idioma. Igual considera no meterle mucha cabeza a la intro o metodos hasta tener perfilado los resultados, dado que estos muchas veces pueden hacer que debamos modificarlos de nuevo. --->
